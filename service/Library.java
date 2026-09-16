@@ -1,4 +1,4 @@
-package library.service;
+package service;
 
 import java.util.ArrayList;
 import library.model.Book;
