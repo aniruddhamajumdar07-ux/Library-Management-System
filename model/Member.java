@@ -1,4 +1,4 @@
-package library.model;
+package model;
 
 public class Member {
 public String id;
