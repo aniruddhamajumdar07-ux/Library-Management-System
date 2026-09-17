@@ -7,8 +7,8 @@ import util.Constants;
 
 public class Library {
 
-private ArrayList books = new ArrayList<>();
-private ArrayList members = new ArrayList<>();
+private ArrayList<Book> books = new ArrayList<>();
+private ArrayList<Member> members = new ArrayList<>();
 
 private int bookCount = Constants.START_BOOK_ID;
 private int memberCount = Constants.START_MEMBER_ID;
