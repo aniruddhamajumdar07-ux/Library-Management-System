@@ -70,7 +70,14 @@ Since this is a simple console application, we can test it by manually performin
 
 ## Screenshots
 
-Add screenshots of the application here before submitting.
+![Startup and menu](screenshots/Screenshot%202026-09-18%20012839.png)
+
+![Book issued successfully](screenshots/Screenshot%202026-09-18%20012858.png)
+
+![Error handling and return](screenshots/Screenshot%202026-09-18%20012912.png)
+
+![Program exit](screenshots/Screenshot%202026-09-18%20012921.png)
+
 
 ## Author
 
